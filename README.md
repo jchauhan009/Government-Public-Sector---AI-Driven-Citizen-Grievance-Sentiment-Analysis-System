@@ -1,0 +1,2 @@
+# Government-Public-Sector---AI-Driven-Citizen-Grievance-Sentiment-Analysis-System
+This system automatically processes large volumes of grievance text, classifies them into the appropriate government departments, and performs sentiment analysis to understand public perception.  It also uses modern machine learning and transformer-based language models such as BERT to improve the accuracy of text understanding and classification.
